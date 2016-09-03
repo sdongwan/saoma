@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_line.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\src\\main\\res\\drawable-hdpi\\scan_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_flashlight_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\src\\main\\res\\drawable-hdpi\\icon_flashlight_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\src\\main\\res\\drawable-hdpi\\camera_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_flashlight_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\src\\main\\res\\drawable-hdpi\\icon_flashlight_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\capture_frame.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\src\\main\\res\\drawable-hdpi\\capture_frame.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_mask.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\QrCodeScan1\\app\\src\\main\\res\\drawable-hdpi\\scan_mask.png"
+    }
+]
